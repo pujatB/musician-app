@@ -16,7 +16,7 @@
     "winston": "^3.2.1",
     "yup": "^0.26.10"
   },
-  "devDependencies": {
+  "dependencies": {
     "jest": "^24.7.1",
     "moxios": "^0.4.0",
     "nodemon": "^1.18.11",
